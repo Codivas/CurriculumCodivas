@@ -24,3 +24,5 @@
 
 <h5 align="center">Você tem que ser muito perspicaz com sua marca, quem você é, e o que você quer dizer com as pessoas. Você deve ser capaz de inspirar toda a organização por trás dessa visão, para que cada ponto de toque o consumidor experimente com a marca seja reflexivo dessa mesma promessa de marca. -
 Frances Allen</h5>
+
+<img src="https://i.imgur.com/5mxJOAo.png" align="center">
